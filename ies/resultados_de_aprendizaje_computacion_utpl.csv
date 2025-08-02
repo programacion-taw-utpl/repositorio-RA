@@ -1,0 +1,266 @@
+CICLO|CÓDIGO ASIGNATURA|ASIGNATURA|RA|UNIVERSIDAD|CARRERA
+1|MATE_1103|Fundamentos matemáticos |El estudiante aplica los conceptos básicos de los números para análisis y representación de datos.|UTPL|COMPUTACIÓN
+1|MATE_1103|Fundamentos matemáticos |El estudiante aplica algebra de polinomios para representar situaciones cotidianas.|UTPL|COMPUTACIÓN
+1|MATE_1103|Fundamentos matemáticos |El estudiante aplica ecuaciones y desigualdades para modelar y resolver problemas de la vida real|UTPL|COMPUTACIÓN
+1|MATE_1103|Fundamentos matemáticos |El estudiante aplica los conceptos básicos de sucesiones y series para resolver problemas.|UTPL|COMPUTACIÓN
+1|MATE_1103|Fundamentos matemáticos |El estudiante relaciona ejemplos prácticos en base a funciones o modelos de relación, e interpreta las operaciones y terminología asociados en su contexto para toma de decisiones.|UTPL|COMPUTACIÓN
+1|MATE_1103|Fundamentos matemáticos |El estudiante calcula el límite de funciones, reconoce y aplica las propiedades de las funciones continuas|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Comprende y explica la diferencia entre los términos relacionados con las ciencias de la computación e ingeniería.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Argumenta la importancia de las ciencias de la computación en diferentes ámbitos de la sociedad|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Reconoce las diferentes áreas de conocimiento en las cuales se desempeña un ingeniero en ciencias de la computación.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Realiza operaciones en la misma forma en la que lo hacen los computadores u ordenadores|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Discute la importancia de los algoritmos en el proceso de solución de un problema.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Analiza y caracteriza los datos según su contexto, finalidad y dominio.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Describe el ciclo de desarrollo que se debe seguir para dar solución a un problema computacional.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Representa de forma abstracta a los datos y sus dominios.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Abstrae los datos de entrada, de proceso y de salida a partir de un problema propuesto.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Evalúa y selecciona la mejor estrategia solucionar un problema.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Crea algoritmos para resolver problemas computacionales.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Expresa una solución algorítmica a través de una representación simbólica independiente del lenguaje de programación (pseudocódigo).|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Documenta soluciones algorítmicas de manera que facilite su legibilidad y entendimiento por terceros.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Aplica los principios de la lógica en la resolución de problemas computacionales.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Expresa una solución algorítmica a través de una representación gráfica (diagramas de flujo).|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Reconoce las diferentes áreas de las ciencias de la computación y su aplicación a través de soluciones a problemáticas actuales.|UTPL|COMPUTACIÓN
+1|COMP_1075|Fundamentos Computacionales|Identifica problemáticas del entorno que pueden ser resueltas a través de aplicaciones desarrolladas en las diferentes áreas de las ciencias de la computación.|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Aplica estrategias para la prueba y depuración de programas.|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Construye, ejecuta y depura programas usando un IDE moderno|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software|UTPL|COMPUTACIÓN
+1|DSOF_1067|Introducción a la programación|Extrae y manipula información de archivos de datos|UTPL|COMPUTACIÓN
+1|COMP_1078|Computación y sociedad|Entender las posibilidades que ofrecen las TIC como medios de transformación social e innovación, para poder identificar oportunidades que beneficien a la sociedad.|UTPL|COMPUTACIÓN
+1|COMP_1078|Computación y sociedad|Analizar el impacto social de la introducción de nuevas TIC para formar criterios sobre los beneficios y los efectos negativos que implica.|UTPL|COMPUTACIÓN
+1|COMP_1078|Computación y sociedad|Reconocer los dilemas éticos que crean las TIC, especialmente en los campos de seguridad, privacidad, derechos de autor, libertad de expresión, riesgos y empleo.|UTPL|COMPUTACIÓN
+1|COMP_1078|Computación y sociedad|Analizar, desde un punto de vista ético, moral y legal, los dilemas creados por las TIC, por medio del uso de teorías éticas y del conocimiento de la legislación, para crear soluciones alternativas a dichos dilemas que sean ética, moral y legalmente aceptables.|UTPL|COMPUTACIÓN
+1|COMP_1078|Computación y sociedad|Establecer criterios que permitan generar ambientes tecnológicos donde la computación sea sustentable.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Convierte oraciones lógicas desde un lenguaje informal a expresiones de lógica proposicional.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Resuelve ejercicios aplicando cuantificadores, teoremas, leyes y propiedades del álgebra booleana en un contexto real.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Aplica leyes del álgebra booleana y mapas de Karnaugh para simplificar funciones booleanas y circuitos combinatorios.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Construye circuitos combinatorios mediante funciones booleanas y viceversa.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Comprende y aplica la teoría de gráficas.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Comprende y aplica las diferentes operaciones que se pueden realizar con árboles.|UTPL|COMPUTACIÓN
+1|DSOF_2030|Estructuras Discretas|Utiliza los fundamentos del modelo de redes para resolver ejercicios de flujo.|UTPL|COMPUTACIÓN
+1|RELI_1105|Humanismo, universidad y cultura|Identifica los fundamentos de la educación católica como una propuesta pedagógica que promueve la formación integral y la cultura desde la máxima dignidad humana.|UTPL|COMPUTACIÓN
+1|RELI_1105|Humanismo, universidad y cultura|Indaga la relación entre Universidad y sociedad desde una perspectiva humanista.|UTPL|COMPUTACIÓN
+1|RELI_1105|Humanismo, universidad y cultura|Considera los valores y virtudes que aporta el humanismo de Cristo al desarrollo personal y social, específicamente desde el modelo pedagógico y educativo de la UTPL.|UTPL|COMPUTACIÓN
+1|RELI_1105|Humanismo, universidad y cultura|Diseña un proyecto de vida reconociendo la necesidad de dar sentido integral a su vida sobre el fundamento de sus valores y virtudes.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Conoce sobre magnitudes, sistemas de unidades, análisis de errores y método|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|científico.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Aplica los principios de cinemática, equilibrio y dinámica en sistemas físicos.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Comprende las magnitudes de trabajo, energía y potencia.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Comprende el concepto de impulso y cantidad de movimiento.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Conoce las propiedades físicas de fluidos.|UTPL|COMPUTACIÓN
+2|FISI_1039|Física básica|Conoce el movimiento periódico vibratorio.|UTPL|COMPUTACIÓN
+2|MATE_1108|Álgebra lineal|El estudiante analiza, interpreta y aplica los conceptos de matrices y sistemas de ecuaciones lineales.|UTPL|COMPUTACIÓN
+2|MATE_1108|Álgebra lineal|El estudiante analiza, interpreta y aplica los conceptos   de determinantes.|UTPL|COMPUTACIÓN
+2|MATE_1108|Álgebra lineal|El estudiante analiza, interpreta y aplica los conceptos y operaciones con vectores|UTPL|COMPUTACIÓN
+2|MATE_1108|Álgebra lineal|El estudiante analiza, interpreta y aplica los conceptos y operaciones de espacios vectoriales|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|El estudiante relaciona los conceptos básicos de conjuntos de números con los distintos conceptos de funciones, tipos de funciones y gráfica de funciones.|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|El estudiante a través de sus habilidades algebraicas adquiere la capacidad de analizar, interpretar y aplicar los conceptos de Límites y Continuidad.|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|El estudiante a través de sus habilidades algebraicas adquiere la capacidad de analizar, interpretar y aplicar los conceptos de Derivación, reglas de derivación. Introducción a problemas de máximos y mínimos.|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|El estudiante desarrolla la destreza de resolver ejercicios de integrales a través de las técnicas de integración.|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|Aplica estas técnicas tanto para integración indefinida como definida.|UTPL|COMPUTACIÓN
+2|MATE_1101|Análisis matemático univariado|Es capaz de encontrar el área en ejercicios de aplicación.|UTPL|COMPUTACIÓN
+2|DSOF_2029|Estructuras de Datos|Utiliza tipos de datos primitivos para construir estructuras de datos.|UTPL|COMPUTACIÓN
+2|DSOF_2029|Estructuras de Datos|Implementa programas que usen cada una de las siguientes estructuras de datos: arreglos, registros, conjuntos, listas enlazadas, pilas y colas.|UTPL|COMPUTACIÓN
+2|DSOF_2029|Estructuras de Datos|Resuelve problemas usando algoritmos básicos de árboles y grafos.|UTPL|COMPUTACIÓN
+2|DSOF_2034|Programación Orientada a Objetos|Diseña e implementa clases y objetos en soluciones computacionales.|UTPL|COMPUTACIÓN
+2|DSOF_2034|Programación Orientada a Objetos|Usa subclases para diseñar una jerarquía de clases.|UTPL|COMPUTACIÓN
+2|DSOF_2034|Programación Orientada a Objetos|Explica e implementa relaciones de clases en el ámbito de Programación Orientado a Objetos.|UTPL|COMPUTACIÓN
+2|DSOF_2034|Programación Orientada a Objetos|Define y usa estructuras de datos de tipo no primitivas.|UTPL|COMPUTACIÓN
+2|DSOF_2034|Programación Orientada a Objetos|Desarrolla aplicaciones usando librerías para la vinculación con gestores de base de datos.|UTPL|COMPUTACIÓN
+3|RELI_2062|Antropología básica|Comprende las distintas dimensiones del ser humano de modo práctico y sencillo.|UTPL|COMPUTACIÓN
+3|RELI_2062|Antropología básica|Asume la unidad del ser humano en su desarrollo vital, tanto en sus aspectos inmanentes como trascendentes.|UTPL|COMPUTACIÓN
+3|RELI_2062|Antropología básica|Discierne y argumenta críticamente las respuestas que el hombre ha dado a los problemas fundamentales de la existencia humana.|UTPL|COMPUTACIÓN
+3|RELI_2062|Antropología básica|Comprende y valora el humanismo de Cristo, como fuente de la plenitud humana y de las interrelaciones e interacciones del ser humano en sus diversos ámbitos socioculturales.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Comprende los diferentes sistemas y códigos de representación numérica.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Resuelve operaciones con compuertas lógicas.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Implementa circuitos lógicos usando compuertas AND, OR, NOT, XOR.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Diseña circuitos lógicos y los simplifica usando el álgebra booleana.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Comprende la operación de los Flip-Flops.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Resuelve problemas de ingeniería usando circuitos lógicos digitales.|UTPL|COMPUTACIÓN
+3|ELEN_2008|Lógica Digital|Diseña e implementa circuitos lógicos digitales en hardware reprogramable.|UTPL|COMPUTACIÓN
+3|DRBD_2004|Fundamentos de Base de Datos|Reconoce la importancia de la información como un recurso estratégico para organizaciones y personas.|UTPL|COMPUTACIÓN
+3|DRBD_2004|Fundamentos de Base de Datos|Explica las características, propiedades, restricciones y reglas que rigen el modelo de datos relacional.|UTPL|COMPUTACIÓN
+3|DRBD_2004|Fundamentos de Base de Datos|Usa SQL para actualizar información en la base de datos y extraer información desde la base de datos (consultas simples y complejas).|UTPL|COMPUTACIÓN
+3|DRBD_2004|Fundamentos de Base de Datos|Escribe consultas expresadas en álgebra relacional y en cálculo relacional de tuplas.|UTPL|COMPUTACIÓN
+3|DRBD_2004|Fundamentos de Base de Datos|Crea un esquema relacional de bases de datos e incorpora claves, restricciones de integridad de entidades y restricciones de integridad referencial.|UTPL|COMPUTACIÓN
+3|DSOF_2035|Programación Funcional y Reactiva|Compara y distingue el enfoque de programación funcional con el enfoque de orientación a objetos.|UTPL|COMPUTACIÓN
+3|DSOF_2035|Programación Funcional y Reactiva|Escribe programas puramente funcionales utilizando recursividad, pattern matching y funciones de orden superior|UTPL|COMPUTACIÓN
+3|DSOF_2035|Programación Funcional y Reactiva|Escribe programas utilizando programación reactiva que trabajen con flujos finitos de datos|UTPL|COMPUTACIÓN
+3|COMP_2011|PRACTICUM 1.1|Conoce los principios metodológicos básicos de una Revisión Sistemática de Literatura y propuesta de patentes, como soporte académico base.|UTPL|COMPUTACIÓN
+3|MATE_3100|Ecuaciones diferenciales y métodos numéricos|Identifica y clasifica ecuaciones diferenciales por tipo, orden y linealidad.|UTPL|COMPUTACIÓN
+3|MATE_3100|Ecuaciones diferenciales y métodos numéricos|Conoce y aplica diferentes métodos para resolución de ecuaciones diferenciales de diferente - complejidad.|UTPL|COMPUTACIÓN
+3|MATE_3100|Ecuaciones diferenciales y métodos numéricos|Resuelve ecuaciones diferenciales de primer orden y de orden superior.|UTPL|COMPUTACIÓN
+3|MATE_3100|Ecuaciones diferenciales y métodos numéricos|Aplica ecuaciones diferenciales como modelos matemáticos.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Explica la organización de la arquitectura clásica de Von Neumann y sus|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|principales unidades funcionales.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Comprende el funcionamiento y la interconexión de las partes de un computador.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Reconoce las características y organización de los diferentes sistemas de|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|almacenamiento.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Comprende la operación y las distintas técnicas de gestión de interrupciones y los|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|módulos de E/S.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Diseña pequeños programas usando el repertorio de instrucciones de Von|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Neumman.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Evalúa las diversas arquitecturas y tecnologías existentes en un computador.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Utiliza herramientas para el diseño de componentes básicos de un computador.|UTPL|COMPUTACIÓN
+4|COMP_2010|Arquitectura y Organización de Computadores|Diseña y simula componentes del computador usando lenguaje Verilog /VHDL.|UTPL|COMPUTACIÓN
+4|DSOF_3036|Prototipado|Aplica la metodología del pensamiento de diseño para identificar problemas locales relacionados a la ingeniería en computación.|UTPL|COMPUTACIÓN
+4|DSOF_3036|Prototipado|Propone soluciones innovadoras a problemas en la sociedad desde procesos sistemáticos y metodológicos del pensamiento de diseño.|UTPL|COMPUTACIÓN
+4|DSOF_3036|Prototipado|Diseña prototipos aplicando técnicas y herramientas de prototipado rápido de Ingeniería en Computación para crear soluciones innovadoras.|UTPL|COMPUTACIÓN
+4|DSOF_2036|Análisis de Algoritmos|Conoce las características, partes y notación de un algoritmo.|UTPL|COMPUTACIÓN
+4|DSOF_2036|Análisis de Algoritmos|Conoce el coste y espacio de un algoritmo ejecutado bajo diversos escenarios.|UTPL|COMPUTACIÓN
+4|DSOF_2036|Análisis de Algoritmos|Analiza el coste y complejidad de los algoritmos y sus tipos utilizando modelos matemáticos adecuados.|UTPL|COMPUTACIÓN
+4|DSOF_2036|Análisis de Algoritmos|Utiliza diversas estrategias que permiten analizar la eficiencia de los distintos tipos de algoritmos.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Elige y evalúa los factores influyentes que permitan definir de forma apropiada la organización física requerida para un implementar una base de datos.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Recomienda medidas de seguridad apropiadas para garantizar la integridad, confidencialidad y disponibilidad de los datos.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Comprende la importancia de las transacciones para la integridad y recuperabilidad de la base de datos.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Prioriza la aplicación de los mecanismos de afinamiento y optimización tal que se garantice el rendimiento de la base de datos y no se arriesgue la consistencia de la información.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Reconoce las características, beneficios y usos de las bases de datos distribuidas.|UTPL|COMPUTACIÓN
+4|DRBD_2005|Base de Datos Avanzada|Describe la estructura y explica los usos de otros tipos de bases de datos no relacionales.|UTPL|COMPUTACIÓN
+4|COMP_4011|Programación avanzada|Implementa aplicaciones a través del uso del paradigma de programación concurrente.|UTPL|COMPUTACIÓN
+4|COMP_4011|Programación avanzada|Integra datos que provienen de fuentes heterogéneas|UTPL|COMPUTACIÓN
+4|COMP_4011|Programación avanzada|Desarrolla aplicaciones para la gestión de datos que provienen de fuentes heterogéneas.|UTPL|COMPUTACIÓN
+4|COMP_2012|PRACTICUM 1.2|Aplica los principios metodológicos básicos de una Revisión Sistemática de Literatura, como soporte académico base|UTPL|COMPUTACIÓN
+5|SIST_3011|Fundamentos de Ingeniería de Software|Conoce las principales áreas de conocimiento de la Ingeniería de Software.|UTPL|COMPUTACIÓN
+5|SIST_3011|Fundamentos de Ingeniería de Software|Conoce e identifica las fases del ciclo de vida de desarrollo de sistemas.|UTPL|COMPUTACIÓN
+5|SIST_3011|Fundamentos de Ingeniería de Software|Identifica el ciclo de vida a utilizar en el desarrollo de un proyecto de software.|UTPL|COMPUTACIÓN
+5|SIST_3011|Fundamentos de Ingeniería de Software|Identifica una metodología de desarrollo acorde a las características de un proyecto de software.|UTPL|COMPUTACIÓN
+5|COMP_3011|Sistemas Operativos|Describe los componentes y funciones de un sistema operativo.|UTPL|COMPUTACIÓN
+5|COMP_3011|Sistemas Operativos|Identifica los servicios que provee un sistema operativo.|UTPL|COMPUTACIÓN
+5|COMP_3011|Sistemas Operativos|Resuelve problemas relacionados con la gestión de recursos.|UTPL|COMPUTACIÓN
+5|COMP_3011|Sistemas Operativos|Define niveles de seguridad en un sistema informático.|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Identifica los conceptos, tecnologías y procesos clave de una solución de inteligencia de negocios basada en analítica de datos|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Utiliza herramientas conocidas para la obtención, limpieza, transformación e integración de datos|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Modela las estructuras necesarias para implementar un almacenamiento integrado de datos|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Aplica los procesos y el software necesario para la exploración y visualización de datos|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Discute las aplicaciones de la Inteligencia de Negocios en el marco de la toma de decisiones de una empresa|UTPL|COMPUTACIÓN
+5|COMP_3013|Introducción a la Inteligencia de Negocios|Reconoce los conceptos de KDD y su aplicación para la generación de conocimiento|UTPL|COMPUTACIÓN
+5|DSOF_3037|Ingeniería Web|Reconoce las diferencias entre el desarrollo basado en plataformas y la programación de propósito general.|UTPL|COMPUTACIÓN
+5|DSOF_3037|Ingeniería Web|Describe los aspectos que son importantes en la selección de herramientas para el desarrollo de un sistema de software, incluyendo herramientas de control de código y de construcción automática de pruebas.|UTPL|COMPUTACIÓN
+5|DSOF_3037|Ingeniería Web|Crea y administra servicios web para el consumo de una aplicación web.|UTPL|COMPUTACIÓN
+5|DSOF_3037|Ingeniería Web|Usa patrones y frameworks de ambiente web para crear soluciones accesibles.|UTPL|COMPUTACIÓN
+5|DSOF_3037|Ingeniería Web|Aplica los elementos de configuración y uso de librerías y herramientas para la prueba y producción de una aplicación web.|UTPL|COMPUTACIÓN
+5|ESTA_3022|Estadística y Probabilidad|Entiende el alcance y utilidad de la estadística en la resolución de problemas.|UTPL|COMPUTACIÓN
+5|ESTA_3022|Estadística y Probabilidad|Calcula probabilidades de sucesos y expectativas de variables aleatorias para problemas elementales.|UTPL|COMPUTACIÓN
+5|ESTA_3022|Estadística y Probabilidad|Aplica herramientas de probabilidad para resolver problemas tales como el análisis del caso promedio de algoritmos o el análisis de hashing.|UTPL|COMPUTACIÓN
+5|ESTA_3022|Estadística y Probabilidad|Interpreta conclusiones estadísticas para toma de decisiones.|UTPL|COMPUTACIÓN
+5|COMP_3019|PRACTICUM 2.1|Interpretación de la información e informe técnico.|UTPL|COMPUTACIÓN
+5|COMP_3019|PRACTICUM 2.1|Plantea soluciones informáticas.|UTPL|COMPUTACIÓN
+5|FILO_1114|Ética y Moral|Identifica los fundamentos y los aspectos esenciales de la ética y la moral de manera clara y precisa.|UTPL|COMPUTACIÓN
+5|FILO_1114|Ética y Moral|Distingue claramente las diferentes teorías éticas (teleológicas, deontológicas y de los valores).|UTPL|COMPUTACIÓN
+5|FILO_1114|Ética y Moral|Comprende la dimensión moral de la persona humana, y lo que significa la plenitud de la vida personal.|UTPL|COMPUTACIÓN
+5|FILO_1114|Ética y Moral|Caracteriza correctamente la actividad moral, así como las normas, los valores en general y los valores morales en particular, que regulan el comportamiento en la actividad profesional.|UTPL|COMPUTACIÓN
+5|FILO_1114|Ética y Moral|Comprende la deontología profesional y el código ético de su profesión.|UTPL|COMPUTACIÓN
+6|DSOF_3035|Gestión de la Calidad de Software|Describe los elementos de calidad que intervienen en un Sistema de Información.|UTPL|COMPUTACIÓN
+6|DSOF_3035|Gestión de la Calidad de Software|Reconoce las normas de calidad de acuerdo al área requerida.|UTPL|COMPUTACIÓN
+6|DSOF_3035|Gestión de la Calidad de Software|Reconoce los elementos necesarios para la mejora de procesos software.|UTPL|COMPUTACIÓN
+6|DSOF_3035|Gestión de la Calidad de Software|Desarrolla el plan de aseguramiento de calidad de software.|UTPL|COMPUTACIÓN
+6|DSOF_3039|Ingeniería de requisitos|Describe cómo el proceso de ingeniería de requisitos apoya la obtención y validación de los requisitos de software.|UTPL|COMPUTACIÓN
+6|DSOF_3039|Ingeniería de requisitos|Utiliza las técnicas y estrategias de obtención de información para identificar las necesidades de los usuarios.|UTPL|COMPUTACIÓN
+6|DSOF_3039|Ingeniería de requisitos|Utiliza herramientas de análisis para identificar y valida los requisitos de usuario y software.|UTPL|COMPUTACIÓN
+6|DSOF_3039|Ingeniería de requisitos|Identifica los requisitos funcionales y no funcionales a partir de las necesidades de los usuarios.|UTPL|COMPUTACIÓN
+6|DSOF_3039|Ingeniería de requisitos|Identifica riesgos en los requisitos y aplica estrategias de mitigación.|UTPL|COMPUTACIÓN
+6|COMP_3012|Teoría de Autómatas y Compiladores|Diseña autómatas finitos deterministas|UTPL|COMPUTACIÓN
+6|COMP_3012|Teoría de Autómatas y Compiladores|Construye analizadores léxicos|UTPL|COMPUTACIÓN
+6|COMP_3012|Teoría de Autómatas y Compiladores|Diseña analizadores sintácticos|UTPL|COMPUTACIÓN
+6|DRBD_4012|Fundamentos de Redes|Reconoce las prestaciones de servicios de las redes de telecomunicaciones.|UTPL|COMPUTACIÓN
+6|DRBD_4012|Fundamentos de Redes|Describe cómo los sistemas computacionales están construidos con capas sobre capas, basadas en la separación de los problemas, con interfaces bien definidas, ocultando los detalles de las capas bajas a las capas superiores.|UTPL|COMPUTACIÓN
+6|DRBD_4012|Fundamentos de Redes|Describe los mecanismos de como los errores se detectan, y como se manejan a través de capas.|UTPL|COMPUTACIÓN
+6|DRBD_4012|Fundamentos de Redes|Configura una red con protocolos de enrutamiento.|UTPL|COMPUTACIÓN
+6|COMP_3014|PRACTICUM 2.2|Desarrollo e implementación de solución y validación de resultados|UTPL|COMPUTACIÓN
+6|DSOF_3038|Plataformas Web|Describe la diferencia entre SaaS y una aplicación Web tradicional.|UTPL|COMPUTACIÓN
+6|DSOF_3038|Plataformas Web|Discute el impacto de la implementación de estándares y/o atributos de calidad en aplicaciones web.|UTPL|COMPUTACIÓN
+6|DSOF_3038|Plataformas Web|Aplica estándares Web en el desarrollo de aplicaciones.|UTPL|COMPUTACIÓN
+6|DRBD_3014|Fundamentos de análisis de datos|Comprende los principales conceptos y procesos relacionados a la ciencia de datos y la gestión inteligente del territorio.|UTPL|COMPUTACIÓN
+6|DRBD_3014|Fundamentos de análisis de datos|Conoce como manipular grupos de datos a través de lenguaje de programación para ciencia de datos.|UTPL|COMPUTACIÓN
+6|DRBD_3014|Fundamentos de análisis de datos|Construye servicios o librerías para el pre-procesamiento de datos mediante técnicas conocidas de depuración, transformación y limpieza de datos.|UTPL|COMPUTACIÓN
+6|DRBD_3014|Fundamentos de análisis de datos|Aplica las técnicas de análisis multivariado más adecuadas para caracterizar un determinado conjunto de datos.|UTPL|COMPUTACIÓN
+6|DRBD_3014|Fundamentos de análisis de datos|Reconoce las potencialidades de la analítica de datos en el contexto de la gestión inteligente de territorios.|UTPL|COMPUTACIÓN
+7|DRBD_4014|Redes y sistemas distribuidos|Conoce la relación e interacción entre la capa de transporte y la capa de red.|UTPL|COMPUTACIÓN
+7|DRBD_4014|Redes y sistemas distribuidos|Define los mecanismos de control de congestión, control de errores que se implementan en la capa de transporte.|UTPL|COMPUTACIÓN
+7|DRBD_4014|Redes y sistemas distribuidos|Comprende los principios de las aplicaciones de red.|UTPL|COMPUTACIÓN
+7|DRBD_4014|Redes y sistemas distribuidos|Analiza las estrategias y protocolos definidos en la capa de aplicación.|UTPL|COMPUTACIÓN
+7|DRBD_4014|Redes y sistemas distribuidos|Describe las actividades, estrategias y entes para mantener la disponibilidad de la red.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Reconoce los principales hechos y áreas que definen la evolución de la inteligencia artificial.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Selecciona y diseña la estructura de un agente inteligente considerando a las características del entorno.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Analiza un problema, expresado en lenguaje natural, y lo formula en términos de estados inicial y final, y operadores.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Selecciona e implementa algoritmos de búsqueda en función de las características del problema y analizando aspectos como la optimización y complejidad.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Compara y contrasta temas básicos de búsqueda con temas de teoría de juegos.|UTPL|COMPUTACIÓN
+7|COMP_4012|Fundamentos de Inteligencia Artificial|Formula un problema de planificación y aplica las estrategias de búsqueda más adecuadas.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Reconoce y utiliza los principales diagramas y estereotipos - UML - utilizados en el diseño de arquitecturas de software.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Identifica y utiliza los principales bloques de construcción de una arquitectura de software.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Identifica y utiliza los principales atributos de calidad en el diseño arquitectónico.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Selecciona y utiliza estilos y patrones arquitectónicos apropiados para un contexto de negocio determinado.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Selecciona y utiliza patrones de diseño de apropiados para un contexto de negocio determinado.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Identifica y utiliza vistas arquitectónicas en el diseño de arquitecturas de software.|UTPL|COMPUTACIÓN
+7|DSOF_4069|Arquitectura de software|Especifica y evalúa arquitecturas de software a través de lenguajes de descripción arquitectónica.|UTPL|COMPUTACIÓN
+7|COMP_4010|PRACTICUM 3 Servicio comunitario|Plantear soluciones informáticas y alfabetización digital en sectores vulnerables.|UTPL|COMPUTACIÓN
+7|DSOF_4070|Plataformas Móviles|Reconoce las diferencias entre la programación móvil y la programación de propósito general.|UTPL|COMPUTACIÓN
+7|DSOF_4070|Plataformas Móviles|Construye aplicaciones para plataformas móviles considerando los principios y modelos de la computación móvil.|UTPL|COMPUTACIÓN
+7|DSOF_4070|Plataformas Móviles|Reconoce las principales tendencias en el desarrollo móvil.|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Reconoce el ciclo de procesamiento de datos en ambientes heterogéneos y distribuidos.|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Distingue las tecnologías clave para el tratamiento de datos heterogéneos|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Aplica lenguajes formales para la transformación de datos mediante esquemas consensuados.|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Analiza conjuntos de datos heterogéneos mediante enfoques basados en teoría de grafos y otros paradigmas emergentes|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Aplica los conceptos fundamentales de la visualización de conocimiento para la construcción de representaciones que aporten valor a la toma de decisiones.|UTPL|COMPUTACIÓN
+7|DRBD_4015|Interoperabilidad y explotación de datos en ecosistemas heterogéneos|Desarrolla aplicaciones integradoras para dar solución a un problema real de ciencia de datos.|UTPL|COMPUTACIÓN
+7|ADMI_4038|Emprendimiento|Emplea la creatividad en la gestación de propuestas innovadoras.|UTPL|COMPUTACIÓN
+7|ADMI_4038|Emprendimiento|Comprende las necesidades de los actores de su entorno y genera y valida soluciones consecuentes con sus realidades.|UTPL|COMPUTACIÓN
+7|ADMI_4038|Emprendimiento|Identifica valores fundamentales para ejercer el liderazgo y presentan solucionan a problemas sociales y de mercado.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Distingue el uso de recursos computacionales para una respuesta más rápida para administrar el acceso eficiente a un recurso compartido.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Da un ejemplo de una ordenación de accesos entre actividades concurrentes (por ejemplo, un programa con condición de carrera) que no son secuencialmente consistentes.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Distingue los tipos de tareas que son adecuadas para máquinas SIMD.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Da un ejemplo de un escenario en el que el bloqueo de mensajes enviados pueden dar deadlock.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Explica cuándo y por qué mensajes de multidifusión (multicast) o basado en eventos puede ser preferible a otras alternativas.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Descompone un problema (por ejemplo, contar el número de ocurrencias de una palabra en un documento) vía operaciones map y reduce.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Explica las diferencias entre memoria distribuida y memoria compartida.|UTPL|COMPUTACIÓN
+8|COMP_4013|Computación Paralela y Distribuida|Describe la arquitectura SMP y observa sus principales características.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Traducir una oración de lenguaje natural en una declaración lógica de predicados|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Comprende las diferentes aproximaciones para representar conocimiento.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Compara los modelos más usados para la representación del conocimiento estructurado, destacando sus puntos fuertes y débiles.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Explica la diferencia entre técnicas de razonamiento basado en modelos, basado en casos y basados en reglas.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Identifica las principales tecnologías y aplicaciones de la representación de conocimiento.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Diseña modelos ontológicos para la representación de un dominio de conocimiento.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Describe objetos del mundo real mediante el modelo de datos avanzados para la Web.|UTPL|COMPUTACIÓN
+8|COMP_4014|Representación avanzada del conocimiento y razonamiento|Aplica técnicas de razonamiento sobre grandes colecciones de datos.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Caracteriza una propuesta de valor innovadora.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Identifica los diversos tipos y fuentes de innovación.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Elabora un plan de negocio basado en el modelo Canvas.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Conoce y aplica el modelo Customer Development y Lean Startup.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Conoce los aspectos legales necesarios para la formación de una empresa tecnológica.|UTPL|COMPUTACIÓN
+8|ADMI_5078|Emprendimiento de Base Tecnológica I|Realiza una propuesta de negocio.|UTPL|COMPUTACIÓN
+8|COMP_4015|Prácticum 4.1:Trabajo de integración curricular/Examen complexivo|Planificar y diseñar proyectos informáticos y/o basados en tecnologías|UTPL|COMPUTACIÓN
+8|DSOF_4071|Plataformas para Juegos|Reconoce los aspectos clave del desarrollo para plataformas de juegos.|UTPL|COMPUTACIÓN
+8|DSOF_4071|Plataformas para Juegos|Compara y contrasta la programación para juegos con la programación de propósito general.|UTPL|COMPUTACIÓN
+8|DSOF_4071|Plataformas para Juegos|Diseña e implementa aplicaciones para plataformas de juegos considerando las restricciones de estos entornos.|UTPL|COMPUTACIÓN
+8|DSOF_4071|Plataformas para Juegos|Identifica los paradigmas emergentes para crear juegos para plataformas modernas.|UTPL|COMPUTACIÓN
+8|DRBD_4016|Análisis y visualización de grandes volúmenes de datos|Reconoce las características y las tecnologías clave de los ambientes de Big Data|UTPL|COMPUTACIÓN
+8|DRBD_4016|Análisis y visualización de grandes volúmenes de datos|Comunica eficazmente los resultados de análisis exploratorios de forma visual.|UTPL|COMPUTACIÓN
+8|DRBD_4016|Análisis y visualización de grandes volúmenes de datos|Usa técnicas de Big Data para el análisis de grandes volúmenes de datos.|UTPL|COMPUTACIÓN
+8|DRBD_4016|Análisis y visualización de grandes volúmenes de datos|Entiende y aplica mejores prácticas en la visualización de grandes volúmenes de datos.|UTPL|COMPUTACIÓN
+8|DRBD_4016|Análisis y visualización de grandes volúmenes de datos|Identifica potenciales aplicaciones de Big Data en el campo de la ciencia de datos y la gestión inteligente del territorio.|UTPL|COMPUTACIÓN
+8|LITE_1108|Composición de textos científicos|Diseña y estructura un proyecto de investigación cualitativa o cuantitativa.|UTPL|COMPUTACIÓN
+8|LITE_1108|Composición de textos científicos|Redacta técnicamente textos de carácter científico en el área del dominio disciplinar al que pertenece.|UTPL|COMPUTACIÓN
+9|ADMI_5077|Gestión de Proyectos|Identifica las fuentes de influencia que configuran las restricciones del proyecto y las considera al momento de organizar el proyecto.|UTPL|COMPUTACIÓN
+9|ADMI_5077|Gestión de Proyectos|Describe las diferencias entre los procesos de desarrollo y los procesos de gestión de proyectos combinándolos para obtener planes de proyecto realistas.|UTPL|COMPUTACIÓN
+9|ADMI_5077|Gestión de Proyectos|Conoce las principales fases y áreas de conocimientos de la gestión de proyectos.|UTPL|COMPUTACIÓN
+9|ADMI_5077|Gestión de Proyectos|Conoce las principales metodologías para la gestión de proyectos.|UTPL|COMPUTACIÓN
+9|ADMI_5077|Gestión de Proyectos|Identifica la metodología de gestión de proyectos a utilizar en base a las características específicas de un problema.|UTPL|COMPUTACIÓN
+9|DSOF_5025|Seguridad de la Información|Entiende los criterios fundamentales en la seguridad de los sistemas computacionales.|UTPL|COMPUTACIÓN
+9|DSOF_5025|Seguridad de la Información|Valida y establece criterios técnicos de los diferentes tipos de seguridad en los sistemas computacionales.|UTPL|COMPUTACIÓN
+9|DSOF_5025|Seguridad de la Información|Asegura un sistema mediante la reducción de vulnerabilidades.|UTPL|COMPUTACIÓN
+9|DSOF_5025|Seguridad de la Información|Establece políticas de seguridad a sistemas computacionales.|UTPL|COMPUTACIÓN
+9|COMP_5023|Tecnologías Emergentes|Conoce e identifica las tecnologías emergentes en el ámbito de las ciencias de la computación.|UTPL|COMPUTACIÓN
+9|COMP_5023|Tecnologías Emergentes|Implementa soluciones software basado en tecnologías emergentes.|UTPL|COMPUTACIÓN
+9|ADMI_5079|Emprendimiento de Base Tecnológica II|Toma decisiones sobre cómo invertir mejor los fondos disponibles, fundamentados en el análisis de los factores tanto económicos como no económicos que determinen la viabilidad de un emprendimiento.|UTPL|COMPUTACIÓN
+9|ADMI_5079|Emprendimiento de Base Tecnológica II|Identifica, analiza y aprovecha las oportunidades de marketing que generan valor en un emprendimiento.|UTPL|COMPUTACIÓN
+9|ADMI_5079|Emprendimiento de Base Tecnológica II|Entiende e identifica los criterios, habilidades, métodos y procedimientos que permitan una adecuada formulación de estrategias de marketing en sectores y medios específicos como lo es una empresa de base tecnológica.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Reconoce las diferencias entre los principales estilos de aprendizaje automático.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Comprende las métricas para la evaluación de algoritmos de aprendizaje automático.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Reconoce los principales problemas que pueden ocurrir durante la aplicación de algoritmos de aprendizaje automático.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Selecciona y aplica los algoritmos de aprendizaje automático más adecuados para analizar una fuente de datos.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Evalúa el desempeño de un sistema de aprendizaje en un conjunto de datos del mundo real.|UTPL|COMPUTACIÓN
+9|COMP_5020|Sistemas Inteligentes|Desarrolla proyectos que requieren la aplicación de algoritmos de aprendizaje automático.|UTPL|COMPUTACIÓN
+9|COMP_5022|PRACTICUM 4.2|Implementar y validar proyectos informáticos y/o basados en tecnologías|UTPL|COMPUTACIÓN

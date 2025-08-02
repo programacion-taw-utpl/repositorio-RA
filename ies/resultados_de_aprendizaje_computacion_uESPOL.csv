@@ -1,0 +1,173 @@
+CICLO|nivel|CODIGO|ASIGNATURA|RA|UNIVERSIDAD|CARRERA
+1|100-1|MATG1045|CÁLCULO DE UNA VARIABLE|Aplicar nociones topológicas para el cálculo de límites y análisis de continuidad. |ESPOL|COMPUTACIÓN
+1|100-1|MATG1045|CÁLCULO DE UNA VARIABLE|Analizar el comportamiento de funciones de una variable real utilizando condiciones de límites, continuidad y derivabilidad. |ESPOL|
+1|100-1|MATG1045|CÁLCULO DE UNA VARIABLE|Interpretar las soluciones en problemas de aproximación, razón de cambio y valores extremos, empleando cálculo diferencial. |ESPOL|
+1|100-1|MATG1045|CÁLCULO DE UNA VARIABLE|Obtener antiderivadas mediante diversas técnicas de integración. |ESPOL|
+1|100-1|MATG1045|CÁLCULO DE UNA VARIABLE|Resolver problemas de cálculo de áreas, volúmenes y longitudes de arco, empleando la integral definida.|ESPOL|
+1|100-1|FISG1005|FÍSICA: MECÁNICA|Analizar los distintos tipos de movimientos para la evaluación de sus diferencias cinemáticas, aplicando el cálculo diferencial e integral. |ESPOL|
+1|100-1|FISG1005|FÍSICA: MECÁNICA|Aplicar las leyes de Newton en la resolución de problemas de equilibrio, dinámica de traslación y de rotación, mediante el uso del cálculo diferencial e integral. |ESPOL|
+1|100-1|FISG1005|FÍSICA: MECÁNICA|Utilizar las leyes de conservación de energía, momentum lineal y angular, para la descripción mecánica de un sistema físico. |ESPOL|
+1|100-1|FISG1005|FÍSICA: MECÁNICA|Analizar las propiedades mecánicas de sólidos y fluidos para la comprensión de la deformación de materiales y de fluidos en reposo y en movimiento.|ESPOL|
+1|100-1|INDG1033|ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS|Identificar problemas mediante el uso de herramientas de investigación y empatía para la profunda comprensión de los mismos. |ESPOL|
+1|100-1|INDG1033|ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS|Definir un problema mediante diferentes procesos sistemáticos y metodológicos del "Pensamiento de Diseño" para la posterior generación de soluciones innovadoras. |ESPOL|
+1|100-1|INDG1033|ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS|Plantear soluciones innovadoras mediante herramientas de prototipado, y validación para su evaluación. |ESPOL|
+1|100-1|INDG1033|ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS|Argumentar mediante técnicas de exposición las propuestas de solución a la(s) necesidad(es) identificadas.|ESPOL|
+1|100-1|CCPG1043|FUNDAMENTOS DE PROGRAMACIÓN|Aplicar métodos computacionales para resolver problemas de su campo de estudio utilizando un lenguaje de programación.|ESPOL|
+1|100-1|CCPG1043|FUNDAMENTOS DE PROGRAMACIÓN|Utilizar herramientas computacionales para modelar e interpretar datos. |ESPOL|
+1|100-1|CCPG1043|FUNDAMENTOS DE PROGRAMACIÓN|Aplicar algoritmos receta en la resolución de problemas. |ESPOL|
+1|100-1|CCPG1043|FUNDAMENTOS DE PROGRAMACIÓN|Utilizar un ambiente de desarrollo para escribir y depurar programas. |ESPOL|
+1|100-1|CCPG1043|FUNDAMENTOS DE PROGRAMACIÓN|Utilizar modularización para la simplificación de la estructura de un programa.|ESPOL|
+1|100-1|IDIG1006|INGLÉS I|Comprender las ideas presentadas en un monólogo o diálogo sobre temas familiares para la identificación de ideas principales.|ESPOL|
+1|100-1|IDIG1006|INGLÉS I|Examinar información de textos por medio de lecturas de temas familiares, sociales y educativos. |ESPOL|
+1|100-1|IDIG1006|INGLÉS I|Desarrollar la comunicación oral por medio de diálogos, entrevistas, conversaciones o presentaciones sencillas sobre temas familiares. |ESPOL|
+1|100-1|IDIG1006|INGLÉS I|Elaborar textos cortos sobre temas cotidianos utlizando el vocabulario y las estructuras gramaticales aprendidas.|ESPOL|
+2|100-2|MATG1049|ÁLGEBRA LINEAL|Resolver problemas que requieren modelos matemáticos y el uso de  sistemas de ecuaciones lineales. |ESPOL|
+2|100-2|MATG1049|ÁLGEBRA LINEAL|Utilizar los conceptos y  propiedades de  matrices, espacios vectoriales,  espacios con producto interno, transformaciones lineales, valores y vectores propios, para la  resolución de problemas de ciencias e ingeniería. |ESPOL|
+2|100-2|MATG1049|ÁLGEBRA LINEAL|Identificar  hipótesis y  conclusión de enunciados lógicos de álgebra lineal, para  el análisis y argumentación de su validez.|ESPOL|
+2|100-2|MATG1046|CÁLCULO VECTORIAL|Resolver problemas de geometría analítica tridimensional empleando los conceptos de superficies, rectas y planos. |ESPOL|
+2|100-2|MATG1046|CÁLCULO VECTORIAL|Analizar los resultados de límites, continuidad, derivabilidad y diferenciabilidad de funciones de varias variables utilizando definiciones y teoremas. |ESPOL|
+2|100-2|MATG1046|CÁLCULO VECTORIAL|Solucionar problemas de aproximación y optimización utilizando gradientes y diferenciales. |ESPOL|
+2|100-2|MATG1046|CÁLCULO VECTORIAL|Resolver integrales con campos vectoriales y escalares, utilizando trayectorias, longitudes de arco, superficies orientadas, volúmenes y teoremas de la teoría vectorial. |ESPOL|
+2|100-2|MATG1046|CÁLCULO VECTORIAL|Realizar transformaciones de integrales múltiples, utilizando diversos órdenes de integración y cambios de variables.|ESPOL|
+2|100-2|CCPG1039|COMPUTACIÓN Y SOCIEDAD|Identificar los avances más importantes y los personajes que han marcado la historia de la computación, para la construcción de una base de conocimientos hacia la creación de nuevas tendencias. |ESPOL|
+2|100-2|CCPG1039|COMPUTACIÓN Y SOCIEDAD|Explicar la responsabilidad ética de su profesión, reconociendo tanto los valores éticos del individuo, como los códigos de ética de las empresas y de las organizaciones profesionales. |ESPOL|
+2|100-2|CCPG1039|COMPUTACIÓN Y SOCIEDAD|Analizar el impacto que las soluciones computacionales tienen sobre los individuos y organizaciones, para el mejoramiento de la sociedad. |ESPOL|
+2|100-2|CCPG1039|COMPUTACIÓN Y SOCIEDAD|Discutir nuevas formas en que las tecnologías de información sean aplicadas para la solución de problemas reales en la sociedad. |ESPOL|
+2|100-2|CCPG1039|COMPUTACIÓN Y SOCIEDAD|Identificar la necesidad del aprendizaje contínuo y el desarrollo profesional de las ciencias computacionales dados por el cambio dinámico de la tecnología.|ESPOL|
+2|100-2|CCPG1052|PROGRAMACIÓN ORIENTADA A OBJETOS|Aplicar los conceptos fundamentales de la programación orientado a objetos (POO) para el desarrollo de aplicaciones informáticas de complejidad media. |ESPOL|
+2|100-2|CCPG1052|PROGRAMACIÓN ORIENTADA A OBJETOS|Implementar programas con interfaces gráficas de usuario (GUI) utilizando la técnica de manejo de eventos para responder a la interacción con el usuario. |ESPOL|
+2|100-2|CCPG1052|PROGRAMACIÓN ORIENTADA A OBJETOS|Diseñar jerarquías de clases para la creación de código escalable y mantenible.|ESPOL|
+2|100-2|IDIG2012|COMUNICACIÓN|Emplear los elementos de la comunicación efectiva en los diferentes contextos, mediante la aplicación de técnicas y dinámicas que fortalezcan las relaciones interpersonales y grupales de los estudiantes. |ESPOL|
+2|100-2|IDIG2012|COMUNICACIÓN|Analizar con sentido crítico el discurso disciplinar y contemporáneo, a través de la lectura de textos académicos pertinentes, para la comprensión holística de la información. |ESPOL|
+2|100-2|IDIG2012|COMUNICACIÓN|Construir textos escritos profesionales, a través del empleo de técnicas de redacción y herramientas digitales, para la divulgación de la información a diferentes audiencias y contextos. |ESPOL|
+2|100-2|IDIG2012|COMUNICACIÓN|Diseñar estrategias de comunicación verbal y no verbal, a través de prácticas de expresión oral, para la configuración del comportamiento comunicacional.|ESPOL|
+2|100-2|IDIG1007|INGLÉS II|Comprender conversaciones y audios de situaciones cotidianas para la identificación de las ideas principales. |ESPOL|
+2|100-2|IDIG1007|INGLÉS II|Examinar información de textos académicos y cotidianos para la comprensión de ideas principales. |ESPOL|
+2|100-2|IDIG1007|INGLÉS II|Desarrollar la comunicación oral por medio de conversaciones, discusiones y/o presentaciones sobre temas familiares. |ESPOL|
+2|100-2|IDIG1007|INGLÉS II|Elaborar párrafos académicos utilizando un nivel intermedio de inglés.|ESPOL|
+3|200-1|EYAG1037|FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES|Aplicar las definiciones y teoremas relacionados a la electricidad mediante la utilización de componentes para el manejo de circuitos eléctricos y electrónicos de bajo consumo. |ESPOL|
+3|200-1|EYAG1037|FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES|Utilizar los componentes eléctricos para consumo adecuado de energía. |ESPOL|
+3|200-1|EYAG1037|FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES|Minimizar el ruido mediante el diseño de sistemas electrónicos. |ESPOL|
+3|200-1|EYAG1037|FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES|Diseñar circuitos lógicos combinatoriales, usando tablas de verdad y técnicas de diseño digital cumpliendo los requerimientos de funcionamiento.|ESPOL|
+3|200-1|MATG1051|MATEMÁTICAS DISCRETAS|El estudiante al finalizar el curso estará en capacidad de: Ulitizar las reglas de inferencias y métodos de demostración para la validación de argumentos. |ESPOL|
+3|200-1|MATG1051|MATEMÁTICAS DISCRETAS|Aplicar diversas técnicas de conteo para la solución de problemáticas de naturaleza discreta. |ESPOL|
+3|200-1|MATG1051|MATEMÁTICAS DISCRETAS|Aplicar conceptos fundamentales de la teoría de conjuntos, grafos y números, en la modelización de estructuras discretas. |ESPOL|
+3|200-1|MATG1051|MATEMÁTICAS DISCRETAS|Utilizar algoritmos, grafos y redes para la resolución de problemas de naturaleza discreta.|ESPOL|
+3|200-1|CCPG1034|ESTRUCTURAS DE DATOS|Implementar los estados y comportamientos de los tipos de datos abstractos, mediante el uso de un lenguaje de programación. |ESPOL|
+3|200-1|CCPG1034|ESTRUCTURAS DE DATOS|Analizar el rendimiento de los algoritmos que usan tipos de datos abstractos, mediante el uso de una notación asintótica. |ESPOL|
+3|200-1|CCPG1034|ESTRUCTURAS DE DATOS|Implementar algoritmos que usan tipos de datos abstractos, para la resolución de problemas con necesidades específicas, mediante el uso de un lenguaje de programación.|ESPOL|
+3|200-1|CCPG1042|DISEÑO DE SOFTWARE|Diseñar un producto de software aplicando principios de diseño orientado a objetos para que sea robusto, mantenible y escalable.|ESPOL|
+3|200-1|CCPG1042|DISEÑO DE SOFTWARE|Aplicar patrones de diseño en la elaboración de diagramas utilizando el lenguaje de modelado unificado para la resolución de los problemas propuestos. |ESPOL|
+3|200-1|CCPG1042|DISEÑO DE SOFTWARE|Reorganizar el código fuente de un sistema mediante técnicas de refactorización para la simplificación de los mantenimientos futuros. |ESPOL|
+3|200-1|CCPG1042|DISEÑO DE SOFTWARE|Emplear herramientas informáticas en el control de versiones y la ejecución de pruebas unitarias para la generación de software de calidad en un entorno colaborativo.|ESPOL|
+3|200-1|TICG1018|SISTEMA DE BASES DE DATOS|Diseñar un esquema relacional a partir de un modelo conceptual utilizando el diagrama entidad- relación, para el manejo de los datos de un modelo de negocio. |ESPOL|
+3|200-1|TICG1018|SISTEMA DE BASES DE DATOS|Aplicar operadores de álgebra relacional para la manipulación de tablas en un esquema de base de datos. |ESPOL|
+3|200-1|TICG1018|SISTEMA DE BASES DE DATOS|Aplicar el lenguaje estructural de consultas para la manipulación de los datos. |ESPOL|
+3|200-1|TICG1018|SISTEMA DE BASES DE DATOS|Diseñar transacciones dentro de un programa real para el manejo eficiente de tareas en una base de datos. |ESPOL|
+3|200-1|TICG1018|SISTEMA DE BASES DE DATOS|Aplicar el lenguaje de control de seguridad para la administración de privilegios de los usuarios.|ESPOL|
+3|200-1|IDIG1008|INGLÉS III|Examinar diversos audios por medio de entrevistas, conversaciones, discusiones y charlas para fomentar la familiaridad y destreza de la habilidad auditiva. |ESPOL|
+3|200-1|IDIG1008|INGLÉS III|Analizar la información de textos sobre temas contemporáneos por medio de artículos del texto guía e investigaciones que permitan desarrollar la destreza de la lectura comprensiva. |ESPOL|
+3|200-1|IDIG1008|INGLÉS III|Practicar el intercambio de argumentos mediante debates, discusiones y conversatorios de temas contemporáneos y académicos para así promover la fluidez verbal. |ESPOL|
+3|200-1|IDIG1008|INGLÉS III|Desarrollar composiciones de manera estructurada, utilizando ideas temáticas, ideas de apoyo, detalles, ejemplos y conclusión para así mejorar la habilidad escrita.|ESPOL|
+4|200-2|CCPG1049|ORGANIZACIÓN DE COMPUTADORES|Evaluar las diversas tecnologías y arquitecturas involucradas en la construcción de un computador y sus diversos dispositivos externos, para la determinación de su desempeño y productividad. |ESPOL|
+4|200-2|CCPG1049|ORGANIZACIÓN DE COMPUTADORES|Entender el proceso por el cual un programa en lenguaje de alto nivel se transforma en un conjunto de instrucciones que pueda entender el computador para la determinación de las ventajas y desventajas del lenguaje. |ESPOL|
+4|200-2|CCPG1049|ORGANIZACIÓN DE COMPUTADORES|Establecer las ventajas de un procesador con respecto a otro, considerando los criterios de diseño propios de cada tecnología.|ESPOL|
+4|200-2|CCPG1051|PROGRAMACIÓN DE SISTEMAS|Construir un programa simple en C usando métodos de división de capas, detección de errores y reflexión de estatus de errores para la creación de un sistema robusto y de mínimo mantenimiento.|ESPOL|
+4|200-2|CCPG1051|PROGRAMACIÓN DE SISTEMAS|Implementar programas con paralelismo computacional usando eventos, hilos, procesos y otros paradigmas de concurrencia para el uso eficiente de los recursos provistos por el hardware y el sistema operativo de un computador. |ESPOL|
+4|200-2|CCPG1051|PROGRAMACIÓN DE SISTEMAS|Implementar una aplicación cliente-servidor simple usando sockets y una interfaz de programación de aplicaciones (API) básico para la creación de un sistema escalable con clara separación de competencias. |ESPOL|
+4|200-2|CCPG1051|PROGRAMACIÓN DE SISTEMAS|Programar un sistema computacional usando un paradigma orientado a eventos para la gestión de eventos asincrónicos externos. |ESPOL|
+4|200-2|CCPG1051|PROGRAMACIÓN DE SISTEMAS|Usar herramientas de colaboración de software, depuración e integración para la gestión en equipo del desarrollo de productos de software de mediano tamaño.|ESPOL|
+4|200-2|ESTG1034|ESTADÍSTICA|Analizar estadísticamente los datos para convertirlos en información útil. |ESPOL|
+4|200-2|ESTG1034|ESTADÍSTICA|Asociar situaciones cotidianas empleando modelos de variables aleatorias discretas o continuas. |ESPOL|
+4|200-2|ESTG1034|ESTADÍSTICA|Aplicar inferencia estadística que identifique y minimice riesgos en la toma de decisiones.|ESPOL|
+4|200-2|CCPG1046|INTERACCIÓN HUMANO COMPUTADOR|Analizar los perfiles, tareas y necesidades de grupos de usuarios involucrados en la interacción con sistemas basados en computadoras. |ESPOL|
+4|200-2|CCPG1046|INTERACCIÓN HUMANO COMPUTADOR|Diseñar sistemas centrados en el usuario tomando en cuenta: las diferencias en los modelos mentales de desarrolladores y usuarios; la aplicación de la psicología cognitiva y los principios de interacción; y, los paradigmas modernos más allá de los sistemas basados en mouse, ventanas, puntero y teclado. |ESPOL|
+4|200-2|CCPG1046|INTERACCIÓN HUMANO COMPUTADOR|Evaluar una propuesta de diseño centrada en el usuario utilizando técnicas tales como prototipado de baja fidelidad, reocrridos cognitivos, revisión de guías, entre otras. |ESPOL|
+4|200-2|CCPG1046|INTERACCIÓN HUMANO COMPUTADOR|Crear un prototipo con su respectiva documentación mediante el uso de un interfaz de usuario gráfico|ESPOL|
+4|200-2|TLMG1032|REDES DE DATOS|Identificar los dispositivos de comunicación intermedios y finales para el diseño de una topología de red de datos. |ESPOL|
+4|200-2|TLMG1032|REDES DE DATOS|Definir tareas de planificación, diseño, instalación y operación para el despliegue de una red de datos. |ESPOL|
+4|200-2|TLMG1032|REDES DE DATOS|Analizar una red de datos para la identificación de problemas que afecten su funcionamiento.|ESPOL|
+4|200-2|IDIG1009|INGLÉS IV|Identificar la idea general y argumentos específicos, mediante audios de conversaciones, conferencias o entrevistas. |ESPOL|
+4|200-2|IDIG1009|INGLÉS IV|Desarrollar la habilidad oral por medio de conversaciones y/o discusiones en pares o grupos sobre acontecimientos y experiencias de carácter personal o profesional. |ESPOL|
+4|200-2|IDIG1009|INGLÉS IV|Exponer un tema realizando una presentación de información relacionada con sus intereses académicos y/o personales. |ESPOL|
+4|200-2|IDIG1009|INGLÉS IV|Estructurar un ensayo persuasivo utilizando un nivel intermedio-alto de inglés. |ESPOL|
+4|200-2|IDIG1009|INGLÉS IV|Examinar información de artículos, reportes, noticias y charlas para la comprensión de la misma.|ESPOL|
+5|300-1|CCPG1056|SISTEMAS OPERATIVOS|Describir las técnicas de administración de recursos comúnmente usadas en sistemas operativos para caracterizarlos de acuerdo a su tipología. |ESPOL|
+5|300-1|CCPG1056|SISTEMAS OPERATIVOS|Comprender el concepto de proceso y sus transiciones de estado en un entorno de multiprogramación para la evaluación del estado de uso del procesador (CPU) de un sistema operativo. |ESPOL|
+5|300-1|CCPG1056|SISTEMAS OPERATIVOS|Aplicar técnicas de sincronización en acceso a recursos compartidos en un computador para la implementación de rutinas de comunicación entre procesos. |ESPOL|
+5|300-1|CCPG1056|SISTEMAS OPERATIVOS|Evaluar el rendimiento de un sistema en base a métricas relevantes de uso de recursos para la identificación de potenciales causas de falla. |ESPOL|
+5|300-1|CCPG1056|SISTEMAS OPERATIVOS|Diseñar un programa que utilice correctamente los recursos de un sistema para la demostración de la mejora de rendimiento esperada mediante el uso de técnicas especificas.|ESPOL|
+5|300-1|CCPG1036|ANÁLISIS DE ALGORITMOS |Analizar el tiempo asintótico de ejecución de algoritmos a través del uso de notaciones formales o estudios empíricos que validen hipótesis sobre mediciones del tiempo de ejecución. |ESPOL|
+5|300-1|CCPG1036|ANÁLISIS DE ALGORITMOS |Generar soluciones algorítmicas a problemas reales a través del uso de estrategias de diseño adecuadas como alternativa a la aplicación de la estrategia de fuerza bruta. |ESPOL|
+5|300-1|CCPG1036|ANÁLISIS DE ALGORITMOS |Identificar algoritmos eficientes evaluando el nivel de complejidad de diversos problemas computacionales a través del conocimiento de su teoría y tipología de problemas.|ESPOL|
+5|300-1|SOFG1006|DESARROLLO DE APLICACIONES WEB Y MÓVILES|Implementar interfaces adaptables web mediante el uso de estándares en la estructuración y presentación de contenidos para dispositivos clientes móviles y fijos |ESPOL|
+5|300-1|SOFG1006|DESARROLLO DE APLICACIONES WEB Y MÓVILES|Implementar patrones de diseño en el desarrollo de aplicaciones en el cliente y en el servidor de una aplicación web |ESPOL|
+5|300-1|SOFG1006|DESARROLLO DE APLICACIONES WEB Y MÓVILES|Aplicar metodologías de intercambio de datos en tiempo real entre los componentes de una aplicación web para el mejoramiento de la experiencia de los usuarios |ESPOL|
+5|300-1|SOFG1006|DESARROLLO DE APLICACIONES WEB Y MÓVILES|Implementar técnicas para el manejo de estado en la administración de información de una aplicación web|ESPOL|
+5|300-1|SOFG1007|INGENIERÍA DE SOFTWARE I|Identificar un modelo de proceso de desarrollo de software que aporte valor a un proyecto específico, mediante el análisis de las características de modelos existentes y las realidades del proyecto. |ESPOL|
+5|300-1|SOFG1007|INGENIERÍA DE SOFTWARE I|Organizar el desarrollo de un sistema de software mediante la conformación de equipos de trabajo, considerando roles y responsabilidades. |ESPOL|
+5|300-1|SOFG1007|INGENIERÍA DE SOFTWARE I|Aplicar normas y buenas prácticas de ingeniería de requerimientos para la generación de especificaciones de requerimientos de software para un sistema de mediana complejidad. |ESPOL|
+5|300-1|SOFG1007|INGENIERÍA DE SOFTWARE I|Crear modelos que representen la estructura y el comportamiento de un sistema de software, a partir de las especificaciones de requerimientos de software.|ESPOL|
+5|300-1|ADMG1005|EMPRENDIMIENTO E INNOVACIÓN |Valorar la importancia de desarrollar sus competencias emprendedoras para enfrentar las dificultades y beneficios del proceso emprendedor para su vida profesional.|ESPOL|
+5|300-1|ADMG1005|EMPRENDIMIENTO E INNOVACIÓN |Investigar el entorno para reconocer los problemas, las necesidades u oportunidades para crear valor a la sociedad. |ESPOL|
+5|300-1|ADMG1005|EMPRENDIMIENTO E INNOVACIÓN |Aplicar herramientas para el diseño de modelos de negocio basados en productos/servicios innovadores utilizando marcos de referencia válidos.|ESPOL|
+5|300-1|IDIG1010|INGLÉS V|Identificar la idea general y argumentos específicos en conversaciones a través de charlas y videos.|ESPOL|
+5|300-1|IDIG1010|INGLÉS V|Examinar información de textos complejos, por medio de una variedad de lecturas de temas contemporáneos, facilitando el aprendizaje autónomo del idioma inglés a lo largo de la vida. |ESPOL|
+5|300-1|IDIG1010|INGLÉS V|Argumentar sobre temas familiares por medio de conversaciones sin preparación previa. |ESPOL|
+5|300-1|IDIG1010|INGLÉS V|Exponer formalmente un tema realizando una presentación de información relacionada con sus intereses académicos y/o personales. |ESPOL|
+5|300-1|IDIG1010|INGLÉS V|Estructurar un ensayo persuasivo utilizando un nivel intermedio-alto de inglés.|ESPOL|
+6|300-2|CCPG1053|SEGURIDAD DE LA INFORMACIÓN|Evaluar los aspectos de confidencialidad, integridad y disponibilidad para la producción de sistemas que sean seguros y fáciles de usar. |ESPOL|
+6|300-2|CCPG1053|SEGURIDAD DE LA INFORMACIÓN|Reconocer riesgos, amenazas, vulnerabilidades y vectores de ataque a los sistemas para la propuesta de soluciones apropiadas. |ESPOL|
+6|300-2|CCPG1053|SEGURIDAD DE LA INFORMACIÓN|Aplicar los algoritmos criptográficos en las comunicaciones de datos para la protección del intercambio de información entre sistemas. |ESPOL|
+6|300-2|CCPG1053|SEGURIDAD DE LA INFORMACIÓN|Aplicar los principios relevantes de la seguridad en el diseño de sistemas seguros, incluyendo programas de computadoras y redes de datos.|ESPOL|
+6|300-2|CCPG1048|METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN|Diseñar una investigación –en grupo- de tipo cuantitativa, a partir de la revisión de literatura y selección de un problema a investigar, considerando aspectos sociales, éticos y legales |ESPOL|
+6|300-2|CCPG1048|METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN|Analizar resultados de una investigación, a través del uso de la estadística descriptiva e inferencial y paquetes estadísticos que apoyan este análisis. |ESPOL|
+6|300-2|CCPG1048|METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN|Comunicar los resultados del análisis de su investigación de forma oral y escrita|ESPOL|
+6|300-2|SOFG1009|LENGUAJES DE PROGRAMACIÓN|Explicar la construcción de interpretadores y compiladores mediante la asociación de las diferentes etapas de la traducción de un programa.|ESPOL|
+6|300-2|SOFG1009|LENGUAJES DE PROGRAMACIÓN|Describir el léxico, sintaxis y semántica de un traductor mediante el análisis de los métodos más comunes: expresiones regulares, BNF, derivaciones, árbol sintáctico y árbol semántico con anotaciones. |ESPOL|
+6|300-2|SOFG1009|LENGUAJES DE PROGRAMACIÓN|Contrastar el diseño de los lenguajes de programación, subprogramas, concurrencia de procesos y sus paradigmas, identificando sus características y similitudes para el desarrollo de soluciones computacionales.|ESPOL|
+6|300-2|SOFG1008|INGENIERÍA DE SOFTWARE II|Usar una herramienta de control de código fuente para la gestión del desarrollo y versionamiento de un sistema de software de complejidad moderada desarrollado en equipo. |ESPOL|
+6|300-2|SOFG1008|INGENIERÍA DE SOFTWARE II|Usar un estándar de codificación para el aseguramiento de la calidad del código en un proyecto dado. |ESPOL|
+6|300-2|SOFG1008|INGENIERÍA DE SOFTWARE II|Elaborar un conjunto de casos de prueba para la correcta operación de un sistema de software. |ESPOL|
+6|300-2|SOFG1008|INGENIERÍA DE SOFTWARE II|Analizar el impacto de una petición de cambio a un producto de software existente determinando su factibilidad.|ESPOL|
+6|300-2|ADSG1026|CIENCIAS DE LA SOSTENIBILIDAD|Relacionar las variables ambientales, económicas y sociales como eje central de la sostenibilidad aplicando las ciencias básicas para la comprensión de la importancia de la sostenibilidad. |ESPOL|
+6|300-2|ADSG1026|CIENCIAS DE LA SOSTENIBILIDAD|Desarrollar el pensamiento crítico a través de la reflexión de los valores éticos, normas y prácticas, para la adopción de una postura en el discurso de la sostenibilidad. |ESPOL|
+6|300-2|ADSG1026|CIENCIAS DE LA SOSTENIBILIDAD|Proponer soluciones a los problemas complejos de sostenibilidad a nivel local, regional y global para el análisis de alternativas que contribuyan al desarrollo sostenible. |ESPOL|
+6|300-2|ADSG1026|CIENCIAS DE LA SOSTENIBILIDAD|Analizar las responsabilidades éticas y profesionales en situaciones laborales, haciendo juicios informados, considerando el impacto de las soluciones en contextos globales, económicos, ambientales y sociales.|ESPOL|
+7|400-1|CCPG1044|INTELIGENCIA ARTIFICIAL|Diferenciar la aplicación de los algoritmos de aprendizaje supervisado y no supervisado para aplicarlos de manera correcta al definir un problema |ESPOL|
+7|400-1|CCPG1044|INTELIGENCIA ARTIFICIAL|Escoger el algoritmo de aprendizaje apropiado acorde al tipo de datos disponibles para el entrenamiento automático |ESPOL|
+7|400-1|CCPG1044|INTELIGENCIA ARTIFICIAL|Evaluar los modelos de aprendizaje automático desarrollados, considerando la precisión y rendimiento, así como las habilidades de diseño e implementación utilizando lenguajes de programación apropiados |ESPOL|
+7|400-1|CCPG1044|INTELIGENCIA ARTIFICIAL|Evaluar los algoritmos de búsqueda en árboles y las técnicas de razonamiento artificial más apropiadas para el modelamiento el comportamiento inteligente de un sistema |ESPOL|
+7|400-1|CCPG1044|INTELIGENCIA ARTIFICIAL|Aplicar diferentes métodos de representación de conocimiento para resolver problemas no convencionales|ESPOL|
+7|400-1|CCPG1054|SISTEMAS DE INFORMACIÓN|Explicar las diferencias entre tecnologías de información y los sistemas de información mediante sus funcionalidades y características sobre la administración de la información. |ESPOL|
+7|400-1|CCPG1054|SISTEMAS DE INFORMACIÓN|Identificar los beneficios del uso de las tecnologías y sistemas de información en diversos contextos organizacionales mediante la evaluación de casos de estudios relacionadados a su aplicación. |ESPOL|
+7|400-1|CCPG1054|SISTEMAS DE INFORMACIÓN|Identificar los problemas éticos presentes en el ejercicio profesional para el análisis y la toma de decisión durante el desarrollo de un proyecto relacionado con las tecnologías y sistemas de información. |ESPOL|
+7|400-1|CCPG1054|SISTEMAS DE INFORMACIÓN|Diseñar soluciones a problemas relacionados con el aprovechamiento de las tecnologías y los sistemas de información en contextos organizacionales y globales mediante la formulación de proyectos con equipos multidisciplinarios.|ESPOL|
+7|400-1|CCPG1055|SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE|Comprender los diferentes conceptos y tecnologías que constituyen la base del diseño e implementación de los sistemas distribuidos, a través de su estudio teórico-práctico. |ESPOL|
+7|400-1|CCPG1055|SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE|Aplicar el conocimiento adquirido en sistemas distribuidos y paralelos, para el uso, diseño e implementación de los mismos en plataformas de computación en la nube. |ESPOL|
+7|400-1|CCPG1055|SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE|Diseñar un algoritmo paralelo mediante la aplicación de "paralelismo de datos" o "descomposición basada en tareas", para la reducción de su tiempo de ejecución. |ESPOL|
+7|400-1|CCPG1055|SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE|Analizar las ventajas y desventajas de las diferentes decisiones de diseño que se presentan durante la implementación de un sistema distribuido, mejorando el rendimiento, escalabilidad, consistencia fuerte, y/o alta tolerancia a fallos.|ESPOL|
+7|400-1|CCPG1041|DIRECCIÓN DE PROYECTOS INFORMÁTICOS|Aplicar la metodología de proyectos de acuerdo al contexto del problema como base para el desarrollo de propuestas y contratos. |ESPOL|
+7|400-1|CCPG1041|DIRECCIÓN DE PROYECTOS INFORMÁTICOS|Aplicar herramientas y estándares en el desarrollo de la planificación de proyectos para la definición del alcance, tiempo y costos. |ESPOL|
+7|400-1|CCPG1041|DIRECCIÓN DE PROYECTOS INFORMÁTICOS|Planificar las necesidades del recurso técnico como soporte del trabajo en equipo durante la ejecución del proyecto. |ESPOL|
+7|400-1|CCPG1041|DIRECCIÓN DE PROYECTOS INFORMÁTICOS|Comprender la planificación estratégica institucional como base para la generación de proyectos en una empresa.|ESPOL|
+8|400-2|CCPG1035|MATERIA INTEGRADORA DE COMPUTACIÓN|Identificar el problema/necesidad a través del estudio de los requerimientos del cliente, usuario o público.|ESPOL|
+8|400-2|CCPG1035|MATERIA INTEGRADORA DE COMPUTACIÓN|Analizar los diferentes factores críticos para el planteamiento de soluciones al problema/necesidad identificado. |ESPOL|
+8|400-2|CCPG1035|MATERIA INTEGRADORA DE COMPUTACIÓN|Diseñar alternativa de solución y/o prototipos utilizando metodologías inherentes a la ingeniería computacional. |ESPOL|
+8|400-2|CCPG1035|MATERIA INTEGRADORA DE COMPUTACIÓN|Generar un proceso de retroalimentación de la alternativa de solución diseñada.|ESPOL|
+7|400-1|TICG1019|SISTEMAS DE BASES DE DATOS AVANZADOS|Demostrar competencia administrando una base de datos relacional, incluidas las tareas de DBA como la autenticación, autorización, tunning de funcionamiento, normalización y desnormalización, control de concurrencia, soporte de transacciones, estrategias de respaldo y recuperación, y criterios para la selección de la base de datos.|ESPOL|
+7|400-1|TICG1019|SISTEMAS DE BASES DE DATOS AVANZADOS|Identificar las ventajas y desventajas entre una base de datos relacional y una base de datos NoSQL.|ESPOL|
+7|400-1|TICG1019|SISTEMAS DE BASES DE DATOS AVANZADOS|Identificar las propiedades de las transacciones distribuidas y las características que se deben considerar en el modelo lógico de una base de datos distribuida.|ESPOL|
+7|400-1|TICG1019|SISTEMAS DE BASES DE DATOS AVANZADOS|Identificar las propiedades de una base de datos y las interacciones con los ambientes orientados a objetos.|ESPOL|
+7|400-1|TICG1019|SISTEMAS DE BASES DE DATOS AVANZADOS|Definir el modelo multidimensional en el desarrollo de un Data Warehouse y sus ambientes de Consultas.|ESPOL|
+8|400-2|CCPG1047|INTRODUCCIÓN A LA CIENCIA DE DATOS|Usar librerias de un lenguaje de programacion para la extraccion de datos publicados en la web.|ESPOL|
+8|400-2|CCPG1047|INTRODUCCIÓN A LA CIENCIA DE DATOS|Implementar un flujo de agregación y transformación de datos para la resolución de preguntas en diferentes dominios.|ESPOL|
+8|400-2|CCPG1047|INTRODUCCIÓN A LA CIENCIA DE DATOS|Desarrollar habilidades de aplicación de métodos de analítica a un conjunto de datos para la interpretación y comunicación de patrones extraídos de datos espaciales y temporales.|ESPOL|
+8|400-2|CCPG1047|INTRODUCCIÓN A LA CIENCIA DE DATOS|Procesar documentos de texto con técnicas de procesamiento de lenguaje natural para la extracción de conocimiento relacionado a diversas profesiones.|ESPOL|
+7|400-1|CCPG1040|DESARROLLO DE JUEGOS DE VIDEO|Diseñar un prototipo de juego de video considerando las dimensiones propias de los géneros utilizados para su desarrollo.|ESPOL|
+7|400-1|CCPG1040|DESARROLLO DE JUEGOS DE VIDEO|Comprender las repercusiones o impactos de los elementos constitutivos de un juego de video en la vida o comportamiento de sus usuarios o jugadores para el diseño de un juego de video.|ESPOL|
+7|400-1|CCPG1040|DESARROLLO DE JUEGOS DE VIDEO|Integrar a un prototipo de juego de video los algoritmos de inteligencia artificial necesarios para la interacción entre los elementos del juego y el jugado|ESPOL|
+8|400-2|CCPG1050|PROCESAMIENTO DIGITAL DE IMÁGENES|Aplicar conceptos de procesamiento digital para el análisis de imágenes usando librerías de código abierto en diferentes sistemas operativos.|ESPOL|
+8|400-2|CCPG1050|PROCESAMIENTO DIGITAL DE IMÁGENES|Analizar problemas referentes al procesamiento digital de imágenes identificando los posibles operadores, filtros, técnicas y algoritmos requeridos para la solución de problemas y el establecimiento de criterios necesarios para su respectiva validación. |ESPOL|
+8|400-2|CCPG1050|PROCESAMIENTO DIGITAL DE IMÁGENES|Desarrollar componentes utilizando herramientas computacionales que sirvan para el desarrollo de sistemas multimedia.|ESPOL|
+8|400-2|CCPG1050|PROCESAMIENTO DIGITAL DE IMÁGENES|Utilizar algoritmos, lenguajes y herramientas actuales para el procesamiento de imágenes.|ESPOL|
